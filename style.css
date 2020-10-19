@@ -1,0 +1,174 @@
+.logosetting {
+    margin-left: 50px;
+}
+
+.bgimg {
+    background-image: url('./harry2.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    opacity: 0.9;
+    z-index: 0.1;
+}
+
+.bgsetting {
+    padding-top: 220px;
+}
+
+.bgsetting h3 {
+    font-size: 50px;
+    color: #000;
+}
+
+.bgsetting h1 {
+    font-size: 80px;
+    font-weight: bold;
+    color: #000;
+}
+
+.ourservices {
+    padding-top: 100px;
+    height: 630px;
+}
+
+.ourservices h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting {
+    padding-top: 40px;
+}
+
+.rowsetting h3 {
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.rowsetting p {
+    padding-top: 10px;
+    color: gray;
+}
+
+.fa-shopping-cart {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.fa-desktop {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.fa-lock {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.portfolio h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.portfolio {
+    height: 900px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+
+.portfolio {
+    padding-top: 30px;
+}
+
+.padding {
+    padding-top: 30px;
+}
+
+.psetting {
+    height: 80px;
+    padding-top: 20px;
+}
+
+.psetting h2 {
+    font-family: fantasy sans-serif Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.pro {
+    height: 500px;
+    padding-top: 80px;
+}
+
+.pro h1 {
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.card {
+    margin-top: 40px;
+}
+
+.ourteam {
+    margin-top: 30px;
+    height: 500px;
+    padding-top: 80px;
+    width: 100%;
+}
+
+.ourteam h1 {
+    padding-top: 30px;
+    margin-left: 100px 0px 70px 0px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.teamsetting {
+    margin-top: 70px !important;
+    padding-top: 30px;
+}
+
+.pro2 {
+    padding-top: 30px;
+}
+
+.pro3 {
+    margin-top: 350px;
+    padding-top: -300px;
+    height: 430px;
+}
+
+.pro1 {
+    height: 100px;
+    border-radius: 50px;
+}
+
+.pro1 h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.foot {
+    margin-top: 150px;
+    background-color: darkgray;
+    height: 100px;
+}
+
+.foot p {
+   padding-top: 50px;
+}
